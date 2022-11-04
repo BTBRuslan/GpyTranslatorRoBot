@@ -8,9 +8,9 @@ import sqlite3, string
 
 bot = Client(
     "APP_NAME",
-    api_id=,
-    api_hash="",
-    bot_token= ""
+    api_id=10300036,
+    api_hash="79c295e05c970ddd724f0762ba275104",
+    bot_token= "5610671766:AAHKfgNOOG4iHmVUDSZ2azwqJKp0mgdhLnQ"
 )
 
 db = sqlite3.connect("userlanguages.db")
